@@ -237,8 +237,7 @@ Here's an example of using the `onChange` handler:
 
 ```jsx
 function ChangeItUp() {
-  function handleChange(event) {
-    console.log(`${event.target.name}: ${event.target.value}`);
+  function handleChanget) {    console.log(`${event.target.name}: {event.target.value}`);
   }
 
   return (
